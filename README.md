@@ -11,7 +11,7 @@ Emaily was built using React, Redux, Express and MongoDB.
 - Allows automated emails containing the user's specific survery to be sent out to various people (using SendGrid)
 - Stores all of the user's previously sent surveys (and responses to the surveys) in a database for the user's future use (using MongoDB)
 
-## A link to the Emaily web application
+## Link to the Emaily web application
 Although the name of this application is Emaily, the website's name is "pure journey 49453", because this is the default name that Heroku gave it when it was deployed.
 
 https://pure-journey-49453.herokuapp.com
